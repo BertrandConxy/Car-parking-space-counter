@@ -11,6 +11,15 @@ This project is a computer vision application that detects and counts available 
 - Live counter displaying available parking spaces
 - Easy setup for defining parking space locations
 
+## Demo
+
+Watch the system in action:
+
+<video autoplay loop muted>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Prerequisites
 
 - Python 3.6 or higher
