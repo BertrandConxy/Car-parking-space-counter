@@ -15,10 +15,11 @@ This project is a computer vision application that detects and counts available 
 
 Watch the system in action:
 
-<video autoplay loop muted>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Video](./demo.mp4)
+
+Screenshot:
+
+![image](./park.PNG)
 
 ## Prerequisites
 
