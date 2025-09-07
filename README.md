@@ -126,7 +126,7 @@ You can customize various parameters in the code:
 
 ## License
 
-MIT Licence
+[MIT Licence](./LICENCE)
 
 ## Contributing
 
